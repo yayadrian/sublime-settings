@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": 1352290675,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Function Name Display",
+		"Indent XML",
+		"JSHint",
+		"Nodejs",
+		"Package Control",
+		"Sublime-HTMLPrettify",
+		"SublimeLinter",
+		"SublimeTODO",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_face": "Source Code Pro",
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"workflow"
+	],
+	"indent_to_bracket": true,
+	"word_wrap": false,
+	"detect_slow_plugins": false
+}

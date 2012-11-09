@@ -1,0 +1,28 @@
+{
+	"sublimelinter_popup_errors_on_save": false,
+	"sublimelinter_gutter_marks": true,
+    "sublimelinter_mark_style": "none",
+
+	"jshint_options": {
+	"evil": false,
+	"browser": true,
+	"devel": true,
+	"jquery": true,
+	"regexdash": true,
+	"wsh": true,
+	"trailing": true,
+	"sub": false,
+	"laxbreak": true,
+	"laxcomma": true,
+	"smarttabs": true,
+	"white": false
+	},
+	
+	"csslint_options": {
+		"floats": false,
+		"font-sizes": false,
+		"ids": false,
+		"important": false,
+		"outline-none": false
+	}
+}
