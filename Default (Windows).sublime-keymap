@@ -2,5 +2,6 @@
      { "keys": ["pause"], "command": "toggle_bookmark" },
      { "keys": ["super+shift+h"], "command": "htmlprettify" },
      { "keys": ["ctrl+k", "ctrl+f"], "command": "indentxml" },
-     { "keys": ["ctrl+shift+alt+b"], "command": "indentxml" } 
+     { "keys": ["ctrl+shift+alt+b"], "command": "indentxml" },
+     { "keys": ["f2"], "command": "next_bookmark" }
 ]
