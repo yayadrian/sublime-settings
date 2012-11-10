@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1352290675,
+	"auto_upgrade_last_run": 1352568803,
 	"installed_packages":
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"CodeIgniter Snippets",
 		"DocBlockr",
 		"Function Name Display",
 		"Indent XML",
