@@ -7,6 +7,7 @@
 		"CodeIgniter Snippets",
 		"DocBlockr",
 		"EJS",
+		"Emmet",
 		"Function Name Display",
 		"Indent XML",
 		"JSHint",
@@ -16,7 +17,6 @@
 		"Sublime-HTMLPrettify",
 		"SublimeLinter",
 		"SublimeTODO",
-		"Theme - Soda",
-		"ZenCoding"
+		"Theme - Soda"
 	]
 }
