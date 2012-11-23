@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_face": "Source Code Pro",
 	"font_size": 11.0,
@@ -13,5 +14,10 @@
 	],
 	"indent_to_bracket": true,
 	"word_wrap": false,
-	"detect_slow_plugins": false
+
+	"bold_folder_labels": true,
+	"caret_style": "phase", 
+	"highlight_line": true, 
+	"trim_trailing_white_space_on_save": true,
+	"scroll_past_end": true 
 }
