@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1352574043,
+	"auto_upgrade_last_run": 1353507998,
 	"installed_packages":
 	[
 		"Alignment",
+		"Auto Semi-Colon",
 		"BracketHighlighter",
 		"CodeIgniter Snippets",
 		"DocBlockr",
