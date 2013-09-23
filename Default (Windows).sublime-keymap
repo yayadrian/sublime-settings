@@ -1,9 +1,10 @@
 [
      { "keys": ["pause"], "command": "toggle_bookmark" },
      { "keys": ["super+shift+h"], "command": "htmlprettify" },
-     { "keys": ["ctrl+k", "ctrl+f"], "command": "indentxml" },
-     { "keys": ["ctrl+shift+alt+b"], "command": "indentxml" },
+     { "keys": ["ctrl+k", "ctrl+f"], "command": "auto_indent" },
+     { "keys": ["ctrl+shift+alt+b"], "command": "auto_indent" },
      { "keys": ["f2"], "command": "next_bookmark" },
      { "keys": ["super+v"], "command": "paste_and_indent" },
-     { "keys": ["super+shift+v"], "command": "paste" }
+     { "keys": ["super+shift+v"], "command": "paste" },
+     { "keys": ["ctrl+alt+d"], "command": "toggle_trailing_spaces" }
 ]

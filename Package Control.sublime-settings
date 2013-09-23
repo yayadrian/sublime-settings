@@ -3,21 +3,40 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"Alternative Autocompletion",
+		"Anyword completion",
 		"Auto Semi-Colon",
 		"BracketHighlighter",
-		"CodeIgniter Snippets",
+		"Clipboard History",
+		"Color Highlighter",
+		"CSS Color Converter",
 		"DocBlockr",
 		"EJS",
 		"Emmet",
 		"Function Name Display",
+		"Highlight",
+		"HTML-CSS-JS Prettify",
+		"HtmlTidy",
 		"Indent XML",
+		"JavaScript Refactor",
+		"JsFormat",
 		"JSHint",
 		"Nodejs",
 		"Package Control",
 		"SideBarEnhancements",
+		"soda-theme",
 		"Sublime-HTMLPrettify",
+		"Sublime-JSHint",
 		"SublimeLinter",
 		"SublimeTODO",
-		"Theme - Soda"
+		"Terminal",
+		"Theme - Nexus",
+		"Theme - Soda",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/buymeasoda/soda-theme/"
 	]
 }

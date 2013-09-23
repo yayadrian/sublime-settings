@@ -1,9 +1,14 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"bold_folder_labels": true,
+    // Valid values are "smooth", "phase", "blink", "wide" and "solid".
+	"caret_style": "phase",
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
+	"fade_fold_buttons": false,
 	"font_face": "Source Code Pro",
 	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -13,11 +18,11 @@
 		"workflow"
 	],
 	"indent_to_bracket": true,
-	"word_wrap": false,
-
-	"bold_folder_labels": true,
-	"caret_style": "phase", 
-	"highlight_line": true, 
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": true,
+	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"scroll_past_end": true 
+	"word_wrap": false,
+    "highlight_modified_tabs": true
 }
